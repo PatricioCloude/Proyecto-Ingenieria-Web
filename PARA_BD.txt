@@ -1,0 +1,5 @@
+Nombre de la BD:
+alma-oval
+
+Elegir la opcion de:
+utf8_spanish_ci
